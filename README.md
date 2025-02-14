@@ -21,9 +21,7 @@
 ### 📫 Contact Me  
 - 🚀 Coming soon... Stay tuned!  
 
----
-
-⚡ Fun Fact: I enjoy coding with a cup of coffee ☕ and exploring new tech trends! 
+⚡ Fun Fact: I enjoy coding with a cup of coffee ☕! 
 
 
 <div align="center">
