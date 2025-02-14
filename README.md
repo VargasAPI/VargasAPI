@@ -18,7 +18,7 @@
 - 💬 Ask me about anything web development related  
 
 ### 📫 Contact Me  
-- 🚀 Coming soon... Stay tuned!  
+- 📩 VargasAPI11@gmail.com   
 
 ⚡ Fun Fact: I enjoy coding with a cup of coffee ☕! 
 
