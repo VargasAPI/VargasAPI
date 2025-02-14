@@ -7,15 +7,23 @@
 <h3 align="center">I'm an Engineer technical enthusiast who does web development, Blogging and Designing. Passionate to contribute open-source projects and create cool content.</h3>
 <p>
 
-<!--
-**VargasAPI/VargasAPI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Skills & Tools  
+- 💻 Frontend: HTML, CSS, JavaScript, React, Next.js  
+- 🖥️ Backend: Node.js, Express, SQL  
+- ☁️ Cloud: AWS (learning in progress)  
+- 🛠️ Tools: Git, Docker, VSCode  
 
-Here are some ideas to get you started:
+### 📚 Currently Learning  
+- 🌱 Next.js & AWS  
+- 📖 Improving my English  
 
-- 🔭 I’m currently developing by myself
-- 🌱 I’m currently learning english, next.js, aws
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about Web dev related stuff
-- 📫 How to reach me: coming soon...
-- ⚡ Fun fact: I like VS Code 
--->
+### 🤝 Collaboration & Networking  
+- 👯 Open to collaborating on open-source projects  
+- 💬 Ask me about anything web development related  
+
+### 📫 Contact Me  
+- 🚀 Coming soon... Stay tuned!  
+
+---
+
+⚡ Fun Fact: I enjoy coding with a cup of coffee ☕ and exploring new tech trends!  
