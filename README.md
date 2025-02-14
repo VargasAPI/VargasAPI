@@ -81,6 +81,13 @@
 
 </td></tr>
 
+## 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VargasAPI&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VargasAPI&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</div>
+
+
 
 
 
