@@ -77,17 +77,18 @@
 <div align="left">  
 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
 
+</td></tr>
+
+ <tr><td>
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VargasAPI&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VargasAPI&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </div>
-
-</div>
-
-</td></tr>
-
+</td>
+</tr>
 
 
 
