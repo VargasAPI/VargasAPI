@@ -9,70 +9,68 @@
 <h3 align="center">I'm currently a computer engineering student. I enjoy coding and backend development.</h3>
 
 
-<h2>Skills</h2>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" alt="React">
+<h2>cURRENTLY WORKING WITH </h2>
+
+
+### Frontend
+<div align="left">    
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>      
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>   
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+</div>
+</td></tr><tr><td valign="top" width="100%">
 </a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="JavaScript">
-</a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML">
-</a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS">
-</a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python">
-</a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=java&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" alt="Java">
-</a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=go&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg" alt="Go">
-</a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=typescript&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" alt="TypeScript">
-</a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=swift&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg" alt="Swift">
-</a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=rust&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rust.svg" alt="Rust">
-</a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=php&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg" alt="PHP">
-</a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=typescript&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" alt="TypeScript">
-</a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML">
-</a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS">
-</a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python">
-</a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=java&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" alt="Java">
-</a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=go&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg" alt="Go">
-</a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=typescript&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" alt="TypeScript">
-</a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=swift&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg" alt="Swift">
-</a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=rust&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rust.svg" alt="Rust">
-</a>
-<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=php&sort=">
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg" alt="PHP">
-</a>
+
+### Backend
+
+<div align="left"> 
+<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>    
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+</div>
+
+</td>
+</tr>
+ <tr><td>
+
+   
+### Languages
+
+<div align="left">    
+<a href="https://www.oracle.com/java/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/java.svg" alt="Java" height="50" /></a>
+</div>
+
+
+
+
+### Deployment
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
+</td></tr>
+<tr>
+<td valign="top" >
+
+### 💻 GitHub Profile Stats
+
+<div align="center">  
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="foadtkf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=foadtkf&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=foadtkf&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="foadtkf" height="230px"/>
+<img src="https://streak-stats.demolab.com?user=foadtkf&theme=tokyonight&hide_border=true&border_radius=0&fire=EB0000&ring=EB0000" alt="foadtkf"   style="width: 95%"  />
+
+</p>
+</div>
+
+</td></tr>
+</table>
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="80">
+</div>
+
+##
 
 <p>
 
