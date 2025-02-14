@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFFE9&width=430&lines=%C2%A1Hey%2C+%3CCoder%2F%3E!+%F0%9F%9A%80;VargasAPI+here+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <hr style="border: 2px solid white;">
+![Profile views](https://komarev.com/ghpvc/?username=VargasAPI&color=blue)
+
 <h2 style="font-family: Arial, sans-serif; font-size: 24px;">About me</h2>
 
 
@@ -90,9 +92,8 @@
 </div>
 
 ### 🌐 Connect with me  
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/tu-linkedin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/tu-twitter" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://tu-portafolio.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
