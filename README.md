@@ -6,14 +6,75 @@
 
 
 
-<h3 align="center">I'm an Engineer technical enthusiast who does web development, Blogging and Designing. Passionate to contribute open-source projects and create cool content.</h3>
-<p>
+<h3 align="center">I'm currently a computer engineering student. I enjoy coding and backend development.</h3>
 
-### 🛠️ Skills & Tools  
-- 💻 Frontend: HTML, CSS, JavaScript, React, Next.js  
-- 🖥️ Backend: Node.js, Express, SQL  
-- ☁️ Cloud: AWS (learning in progress)  
-- 🛠️ Tools: Git, Docker, VSCode  
+
+<h2>Skills</h2>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" alt="React">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="JavaScript">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=java&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" alt="Java">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=go&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg" alt="Go">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=typescript&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" alt="TypeScript">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=swift&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg" alt="Swift">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=rust&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rust.svg" alt="Rust">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=php&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg" alt="PHP">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=typescript&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" alt="TypeScript">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=java&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" alt="Java">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=go&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg" alt="Go">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=typescript&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" alt="TypeScript">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=swift&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg" alt="Swift">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=rust&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rust.svg" alt="Rust">
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=php&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg" alt="PHP">
+</a>
+
+<p>
 
 ### 📚 Currently Learning  
 - 🌱 Next.js & AWS  
